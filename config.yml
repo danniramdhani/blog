@@ -1,4 +1,4 @@
-baseURL: "http://metanoia.my.id/"
+baseURL: "https://metanoia.my.id/"
 title: METANOIA
 paginate: 5
 theme: PaperMod
