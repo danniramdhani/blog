@@ -23,3 +23,5 @@ Jadi, yang kita butuhkan adalah kekuatan untuk **memulai**. Kekuatan untuk menci
 
 Maka tak akan ada lagi alasan basi 'lagi gak ada inspirasi sama motivasi nih, mending rebahan aja'.
 Hey, all you need to do is wake up! Do a simple task, and that's it. Let the magic happen. ✨
+
+Sebuah catatan singkat dari: [How to Get Motivated and Take Action](https://markmanson.net/how-to-get-motivated).
