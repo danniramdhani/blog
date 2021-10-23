@@ -22,8 +22,8 @@ Maka penting sekali untuk mengetahui kapan dan pada titik mana kita harus berhen
 Disinilah peran pengelolaan waktu.
 Mampu membagi waktu yang seimbang antara beraktivitas dan beristirahat bukan pekerjaan mudah. Kita cenderung condong pada salah satunya. Beraktivitas terlalu banyak dan beristirahat terlalu sedikit, atau sebaliknya.
 
-Semua penjelasan tersebut membawa kita pada salah satu teknik pengelolaan waktu bernama **Pomodoro**.
-Pada teknik Pomodoro, aktivitas dibagi ke dalam beberapa interval, yaitu *focus mode* (biasanya selama 25 menit), diselingi oleh *short break* (5 menit) dan *long break* (15-30 menit).
+Semua penjelasan tersebut membawa kita pada salah satu teknik pengelolaan waktu bernama **Pomodoro**.\
+Pada teknik Pomodoro, aktivitas dibagi ke dalam beberapa interval, yaitu *focus mode* (biasanya selama 25 menit), diselingi oleh *short break* (5 menit) dan *long break* (15-30 menit).\
 *Long break* sendiri dilakukan setelah kita melakukan 4 sesi Pomodoro (1 sesi = 25 menit + *short break*). Tentu durasi waktunya fleksibel, kita bebas menentukannya sesuai preferensi.
 
 Pada teknik Pomodoro, fokus kita adalah **mengerjakan satu tugas pada satu waktu**. Maka, selama mode fokus, kerahkanlah fokus kita sepenuhnya pada tugas yang sedang kita kerjakan. Matikan sementara notifikasi tak penting dan hindari segala distraksi. Tak apa, ~~dia~~ dunia bisa menunggu.
